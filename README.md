@@ -6,8 +6,6 @@
 
 Building production workflow tools, observability systems, and data-heavy backend services.
 
-[LinkedIn](https://linkedin.com/in/nazeer-shaikh-0aaa8668) · [GitHub](https://github.com/nash226)
-
 </div>
 
 ---
