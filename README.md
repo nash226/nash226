@@ -1,58 +1,107 @@
-# Hi, I'm Nazeer 👋
+<div align="center">
+
+# Nazeer Shaikh
+
+### Backend / Applied AI / Platform Engineer
+
+Building production workflow tools, observability systems, and data-heavy backend services.
+
+[LinkedIn](https://linkedin.com/in/nazeer-shaikh-0aaa8668) · [GitHub](https://github.com/nash226) · [Email](mailto:Nazeer.shaikh54@gmail.com)
+
+</div>
+
+---
+
+## About Me
 
 I'm a Software Engineer focused on **backend systems, applied AI, observability, and internal platform tooling**.
 
-I currently build production software for business operations, including SQL-backed workflow systems, AI-assisted tools, data-access layers, fulfillment automation, and internal engineering platforms. I like working at the intersection of messy real-world business problems and reliable software systems.
+I like building systems that turn messy real-world business workflows into reliable software: SQL-backed services, AI-assisted internal tools, fulfillment automation, observability pipelines, and production-ready data access layers.
 
-## What I'm working on
+---
 
-* Building backend and applied AI tools for production business workflows
-* Designing read-only AI assistant foundations over operational databases
-* Improving internal platform reliability, observability, and data-access patterns
-* Exploring observability infrastructure, time series databases, OpenTelemetry, Grafana, and metrics cardinality reduction
+## Current Focus
 
-## Selected work
+* Building applied AI tools for business and production workflows
+* Designing safe read-only assistant foundations over operational databases
+* Improving backend performance, SQL access patterns, and internal platform reliability
+* Exploring observability infrastructure, OpenTelemetry, Grafana, and time series databases
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+</p>
+
+---
+
+## Selected Projects
 
 ### SunDance — Backend / AI Engineering
 
-* Productionized AI-generated Prepress tools into a portal-based workflow used by real production teams
-* Built SQL-backed workflow automation for fulfillment and operations
+Production backend and applied AI work for print-production, fulfillment, Prepress, and internal business workflows.
+
+* Productionized AI-generated Prepress tools into a permission-aware portal workflow
+* Built SQL-backed fulfillment normalization for inconsistent client spreadsheet data
 * Designed safe read-only data access patterns for a LangChain business assistant
-* Worked cross-functionally with Prepress, Sales, operations, and technical stakeholders
+* Partnered with Prepress, Sales, operations, and technical stakeholders to translate manual workflows into production tools
 
 ### Trickl — Observability Platform
 
-* Created a self-hosted observability platform focused on reducing metrics cost and high-cardinality time series data
+A self-hosted observability platform focused on metrics cost reduction and high-cardinality time series data.
+
 * Built with OpenTelemetry, Grafana, Docker Compose, AWS, and time series databases
-* Designed recommendation-service workflows for parsing dashboard/query usage and generating safer metric-pruning recommendations
+* Designed recommendation workflows for parsing dashboard/query usage
+* Generated safer metric-pruning recommendations with manual approval guardrails
 
 ### Recoverly — HealthTech Platform
 
-* Built full-stack workflows for patient intake, clinic dashboards, role-based navigation, and multi-clinic data modeling
-* Improved dashboard scalability with paginated APIs, summary/detail endpoint separation, and database-side filtering
+A full-stack healthtech platform for multi-clinic patient workflows.
 
-## Tech I work with
+* Built patient intake, dashboard, role-based navigation, and clinic-specific workflows
+* Modeled backend entities around clinics, users, patients, roles, and workflow records
+* Improved dashboard scalability with pagination, database-side filtering, and summary/detail endpoint separation
 
-**Languages:** Python, TypeScript, JavaScript, C#, SQL, Go
-**Backend:** .NET, ASP.NET Core, FastAPI, Flask, Django, REST APIs
-**Frontend:** React, Vite
-**Data:** PostgreSQL, SQL Server, Redis, MongoDB, DynamoDB, pgvector
-**Cloud / Infra:** AWS, Docker, Docker Compose, EC2, S3, CloudFront, ALB, CI/CD
-**AI / Platform:** LangChain, RAG, vector search, OpenAI API, OpenTelemetry, Grafana, time series databases
+---
 
-## Current focus
+## Areas I’m Interested In
 
-I'm focused on becoming a stronger backend/platform engineer by building systems that are production-ready, observable, secure, and useful to real users.
-
-I'm especially interested in:
-
-* Applied AI in business workflows
-* Internal developer platforms
+* Applied AI for real business workflows
+* Backend/platform engineering
 * Observability and telemetry systems
-* Backend performance and data-access optimization
 * Distributed systems and event-driven architecture
+* SQL performance and data-access design
+* Internal developer platforms
 
-## Connect
+---
 
-* GitHub: [github.com/nash226](https://github.com/nash226)
-* LinkedIn: [linkedin.com/in/nazeer-shaikh-0aaa8668](https://linkedin.com/in/nazeer-shaikh-0aaa8668)
+## GitHub Stats
+
+<div align="center">
+
+![Nazeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=nash226\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nash226\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building practical software for messy real-world systems.
+
+</div>
