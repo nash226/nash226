@@ -50,7 +50,7 @@ I like building systems that turn messy real-world business workflows into relia
 
 ## Engineering Highlights
 
-### SunDance — Backend / AI Engineering
+### Enterprise Company — Backend / AI Engineering
 
 Production backend and applied AI work for print-production, fulfillment, Prepress, and internal business workflows.
 
