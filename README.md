@@ -88,18 +88,6 @@ A full-stack healthtech platform for multi-clinic patient workflows.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Nazeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=nash226\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nash226\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 ### Building practical software for messy real-world systems.
