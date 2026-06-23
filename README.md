@@ -48,7 +48,7 @@ I like building systems that turn messy real-world business workflows into relia
 
 ---
 
-## Selected Projects
+## Engineering Highlights
 
 ### SunDance — Backend / AI Engineering
 
