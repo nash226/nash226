@@ -14,7 +14,7 @@ Building production workflow tools, observability systems, and data-heavy backen
 
 I'm a Software Engineer focused on **backend systems, applied AI, observability, and internal platform tooling**.
 
-I'm also the co-creator of Trickl, a self-hosted observability platform focused on helping engineering teams understand high-cardinality metrics, reduce telemetry waste, and make safer metric-pruning decisions.
+I'm also the creator of Trickl, a self-hosted observability platform focused on helping engineering teams understand high-cardinality metrics, reduce telemetry waste, and make safer metric-pruning decisions.
 
 I like building systems that turn messy real-world business workflows into reliable software: SQL-backed services, AI-assisted internal tools, fulfillment automation, observability pipelines, and production-ready data access layers.
 
