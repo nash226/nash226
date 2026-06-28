@@ -22,7 +22,7 @@ I like building systems that turn messy real-world business workflows into relia
 
 ## Current Focus
 
-* Building applied AI tools for business and production workflows
+* Building evidence-gated AI tools for business and production workflows
 * Designing safe read-only assistant foundations over operational databases
 * Improving backend performance, SQL access patterns, and internal platform reliability
 * Exploring observability infrastructure, OpenTelemetry, Grafana, and time series databases
@@ -51,6 +51,25 @@ I like building systems that turn messy real-world business workflows into relia
 ## Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/nash226/quorum">Quorum</a></h3>
+      <p>Evidence gate for enterprise AI agents that checks generated business claims against approved company sources before those claims reach customers, employees, tickets, workflows, or downstream systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Claim%20Verification-2E7D32?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/CLI-111111?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      </p>
+      <ul>
+        <li>Labels each AI-generated claim as <code>verified</code>, <code>contradicted</code>, <code>unsupported</code>, or <code>needs_review</code>.</li>
+        <li>Loads approved Markdown, text, and exported HTML sources with reviewer-ready source metadata.</li>
+        <li>Writes JSON evidence reports and supports CI-style failure policies with <code>--fail-on</code>.</li>
+      </ul>
+    </td>
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nash226/AWS-RequestBin">AWS RequestBin</a></h3>
