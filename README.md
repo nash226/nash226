@@ -72,6 +72,25 @@ Lately, I've been experimenting with agentic engineering workflows: using parall
   </tr>
 
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/nash226/WatchDex">WatchDex</a></h3>
+      <p>Apple Watch alert and quick-reply layer for completed Codex tasks, built around actionable notifications, local callbacks, and human-in-the-loop agent workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apple%20Watch-000000?style=for-the-badge&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
+        <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Human%20in%20the%20Loop-2E7D32?style=for-the-badge" />
+      </p>
+      <ul>
+        <li>Sends completed Codex turns to Apple Watch with canned response actions.</li>
+        <li>Supports Pushcut and a free Home Assistant provider for local watch-response testing.</li>
+        <li>Records replies through a local bridge so agent workflows can pause for lightweight human decisions.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nash226/AWS-RequestBin">AWS RequestBin</a></h3>
       <p>Webhook/request inspection app deployed on a multi-tier AWS architecture with public web, private app, PostgreSQL, and MongoDB layers.</p>
