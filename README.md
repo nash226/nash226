@@ -18,11 +18,14 @@ I'm also the creator of Trickl, a self-hosted observability platform focused on 
 
 I like building systems that turn messy real-world business workflows into reliable software: SQL-backed services, AI-assisted internal tools, fulfillment automation, observability pipelines, and production-ready data access layers.
 
+I'm also interested in agentic engineering workflows: using parallel agents, worktrees, CI, and small PR loops to test new ways of building software without losing reviewability.
+
 ---
 
 ## Current Focus
 
 * Building evidence-gated AI tools for business and production workflows
+* Testing agentic development workflows with worktrees, automated PR loops, and human-in-the-loop review queues
 * Designing safe read-only assistant foundations over operational databases
 * Improving backend performance, SQL access patterns, and internal platform reliability
 * Exploring observability infrastructure, OpenTelemetry, Grafana, and time series databases
