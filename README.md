@@ -12,13 +12,11 @@ Building production workflow tools, observability systems, and data-heavy backen
 
 ## About Me
 
-I'm a Software Engineer focused on **backend systems, applied AI, observability, and internal platform tooling**.
+I'm a Software Engineer focused on **backend systems, applied AI, observability, and internal platform tooling**. I like building systems that turn messy real-world business workflows into reliable software: SQL-backed services, AI-assisted internal tools, fulfillment automation, observability pipelines, and production-ready data access layers.
 
-I'm also the creator of [Trickl](https://trickl-app.github.io/), a self-hosted observability platform focused on helping engineering teams understand high-cardinality metrics, reduce telemetry waste, and make safer metric-pruning decisions.
+I created [Trickl](https://trickl-app.github.io/), a self-hosted observability platform focused on helping engineering teams understand high-cardinality metrics, reduce telemetry waste, and make safer metric-pruning decisions.
 
-I like building systems that turn messy real-world business workflows into reliable software: SQL-backed services, AI-assisted internal tools, fulfillment automation, observability pipelines, and production-ready data access layers.
-
-I'm also interested in agentic engineering workflows: using parallel agents, worktrees, CI, and small PR loops to test new ways of building software without losing reviewability.
+Lately, I've been experimenting with agentic engineering workflows: using parallel agents, worktrees, CI, and small PR loops to test new ways of building software without losing reviewability.
 
 ---
 
