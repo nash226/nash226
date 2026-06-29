@@ -74,18 +74,19 @@ Lately, I've been experimenting with agentic engineering workflows: using parall
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/nash226/WatchDex">WatchDex</a></h3>
-      <p>Apple Watch alert and quick-reply layer for completed Codex tasks, built around actionable notifications, local callbacks, and human-in-the-loop agent workflows.</p>
+      <p>Apple Watch notification and reply layer for completed Codex work, built around Home Assistant routing, local WatchDex bridges, and human-in-the-loop agent workflows across multiple machines.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Apple%20Watch-000000?style=for-the-badge&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
         <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Multi--Machine%20Routing-2E7D32?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Human%20in%20the%20Loop-2E7D32?style=for-the-badge" />
       </p>
       <ul>
-        <li>Sends completed Codex turns to Apple Watch with canned response actions.</li>
-        <li>Supports Pushcut and a free Home Assistant provider for local watch-response testing.</li>
-        <li>Records replies through a local bridge so agent workflows can pause for lightweight human decisions.</li>
+        <li>Sends completed Codex replies to Apple Watch with scrollable previews, canned actions, custom text, and dictated replies.</li>
+        <li>Uses Home Assistant as a free notification hub and routes replies back through per-notification <code>replyUrl</code> callbacks.</li>
+        <li>Can paste watch replies into the visible Codex desktop thread while preserving JSONL task, reply, and event logs.</li>
       </ul>
     </td>
   </tr>
