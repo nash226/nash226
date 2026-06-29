@@ -73,7 +73,7 @@ Lately, I've been experimenting with agentic engineering workflows: using parall
 
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/nash226/WatchDex">PhoneDex</a></h3>
+      <h3><a href="https://github.com/nash226/phonedex">PhoneDex</a></h3>
       <p>iPhone-first notification and reply layer for completed Codex work, built around Home Assistant routing, local PhoneDex bridges, dictated replies, and human-in-the-loop agent workflows across multiple machines.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
