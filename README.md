@@ -73,20 +73,20 @@ Lately, I've been experimenting with agentic engineering workflows: using parall
 
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/nash226/WatchDex">WatchDex</a></h3>
-      <p>Apple Watch notification and reply layer for completed Codex work, built around Home Assistant routing, local WatchDex bridges, and human-in-the-loop agent workflows across multiple machines.</p>
+      <h3><a href="https://github.com/nash226/WatchDex">PhoneDex</a></h3>
+      <p>iPhone-first notification and reply layer for completed Codex work, built around Home Assistant routing, local PhoneDex bridges, dictated replies, and human-in-the-loop agent workflows across multiple machines.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Apple%20Watch-000000?style=for-the-badge&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/iPhone-000000?style=for-the-badge&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
         <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Multi--Machine%20Routing-2E7D32?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Human%20in%20the%20Loop-2E7D32?style=for-the-badge" />
       </p>
       <ul>
-        <li>Sends completed Codex replies to Apple Watch with scrollable previews, canned actions, custom text, and dictated replies.</li>
+        <li>Sends completed Codex replies to iPhone with expanded native previews, canned actions, typed custom text, and dictated replies.</li>
         <li>Uses Home Assistant as a free notification hub and routes replies back through per-notification <code>replyUrl</code> callbacks.</li>
-        <li>Can paste watch replies into the visible Codex desktop thread while preserving JSONL task, reply, and event logs.</li>
+        <li>Can paste phone replies into the visible Codex desktop thread while preserving JSONL task, reply, and event logs, with Apple Watch kept as a fallback surface.</li>
       </ul>
     </td>
   </tr>
